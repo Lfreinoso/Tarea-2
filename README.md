@@ -19,6 +19,18 @@ NRC: 10067
 
 # 2. MARCO TEÓRICO 
 
+- CAPÍTULO 3
+
+![image](https://user-images.githubusercontent.com/116655812/202347262-0fedd271-8e17-4214-bd3b-92251b93c9ca.png)
+
+![image](https://user-images.githubusercontent.com/116655812/202347281-7cf116b1-fb4b-4a3c-ad69-fd421d75848b.png)
+
+
+- CAPÍTULO 4
+
+![image](https://user-images.githubusercontent.com/116655812/202347343-5a70d2a3-cbcf-4d34-ae7e-b3191552fa99.png)
+
+![image](https://user-images.githubusercontent.com/116655812/202347360-3f5bd825-9b2d-4c48-ac5d-b51fb69cc640.png)
 
 
 
