@@ -13,8 +13,15 @@ NRC: 10067
 # 1. OBJETIVOS
  OBJETIVO GENERAL
 
+- Analizar la ley de ohm, la relación entre corriente-voltaje, corriente-resistencia, voltaje-resistencia y todos los componentes que se derivan de ella como la potencia y la eficiencia mediante la realización de ejercicios referentes al tema además de la lectura de la teoría presentada en el mismo libro para tener las bases necesarias para resolver circuitos eléctricos 
 
  OBJETIVOS ESPECÍFICOS
+
+- Dominar la ley de ohm para tener mayor facilidad al momento de realizar las pruebas
+
+- Entender de donde provienen y como se obtiene la corriente, voltaje y resistencia en un circuito eléctrico
+
+- Aprender las diferentes formas de relación de la potencia con el voltaje, tiempo. Corriente y resistencia  
 
 
 # 2. MARCO TEÓRICO 
@@ -257,11 +264,20 @@ R) La potencia mínima del resistor debe ser de 0.68 [W]
 
 # 4. VIDEO 
 
-
+https://youtu.be/hX3lgL5nuZo
 
 
 # 5. CONCLUSIONES 
 
+- La corriente y el voltaje son linealmente proporcionales, si uno baja el otro también 
+
+- La corriente varia inversamente con la resistencia 
+
+- La energía es la capacidad de realizar trabajo, y potencia es la razón de cambio a la cual se utiliza la energía.
+
+- Un watt (W) es la cantidad de potencia cuando se utiliza un joule en un segundo
+
+- Eficiencia es la relación de la potencia de salida suministrada a una carga respecto de potencia de entrada al circuito.
 
 
 # 6.BIBLIOGRAFÍA
